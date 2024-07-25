@@ -1,0 +1,73 @@
+= Benjamin Tegge
+:hide-uri-scheme:
+// Enable keyboard macros
+:experimental:
+:toc:
+:toclevels: 4
+:icons: font
+:note-caption: ℹ️
+:tip-caption: 💡
+:warning-caption: ⚠️
+:caution-caption: 🔥
+:important-caption: ❗
+
+// cspell:ignore
+
+// Estimated reading time:
+// https://thereadtime.com/
+// Average = 183 wpm, Fast = 260 wpm, Silent reading = 238 wpm
+
+== For recruiters
+
+[IMPORTANT]
+====
+*Special note for recruiters*
+
+// I already like you, because you can and care to read source code and
+// comments. Some content here has been hidden from always busy people.
+// Lecturing them is not worth it. I hope you will find the information useful.
+
+// SNIPPET:
+// Boost your chances of getting a response: https://github.com/lwbt/lwbt#for-recruiters (30s read)
+Estimated reading time for this section: 30 seconds.
+// Estimated reading time for this section: 50 seconds.
+
+https://www.linkedin.com/in/benjamin-t-a8a62a197/[LinkedIn]:
+
+* Provide a focused job description, then I will send you my CV.
+* Sending a request before we've had a conversation is an instant `-1`. I'll add you temporarily and remove you later.
+* Don't expect a reply if you mistake me for a Windows or Network engineer.
+* If you rely on non-verbal cues during phone communication for every step of the recruitment process, I will switch to email communication instead.
+// ** I don't want to have any more dangerous phone calls while commuting.
+// ** I don't want to have to piece together what a call was about.
+// ** I value introverted and sensitive personalities in the workplace but prefer not to work with overly extroverted individuals who struggle with written communication.
+// * I have a profile, but I don't participate in any social media activities.
+// * STFU & GTD is my preferred professional representation.
+
+Xing:
+
+* I prefer LinkedIn. Think of my LinkedIn profile as the complete version of my Xing profile.
+* I might miss your message since I've turned off all unnecessary and intrusive notifications.
+
+Thank you for your time.
+====
+
+== For everyone else
+
+Things I love:
+
+* FOSS / FLOSS
+* Linux: Debian, Ubuntu, Red Hat, Android, ChromeOS, OpenWrt, Arch Linux
+* Automation
+
+Social Media:
+
+* https://stackexchange.com/users/1149008[StackExchange / StackOverflow]:
+  I have been more active some years ago and wrote a few answers, particularly for Ubuntu, which became quite popular.
+* Twitter/X:
+  Waste of time from my point of view.
+  Was useful when it was an open platform. R.I.P.
+* Instagram/WhatsApp/Facebook/Meta Platforms:
+  Waste of time from my point of view.
+  Has never been an open platform, just a conditioning chamber.
+  I prefer to share photos only with friends and family.

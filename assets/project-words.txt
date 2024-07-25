@@ -1,0 +1,11 @@
+# AsciiDoc
+adoc
+toclevels
+
+# Names
+Tegge
+Xing
+
+# Abbreviations
+FOSS
+STFU
